@@ -13,13 +13,13 @@ This project demonstrates data analysis and visualization using Python, Pandas, 
 ## Dashboard Preview
 
 ### Dashboard 1
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](Dashboard%201.png)
 
 ### Dashboard 2
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](Dashboard%202.png)
 
 ### Dashboard 3
-![Dashboard 3](images/dashboard3.png)
+![Dashboard 3](Dashboard%203.png)
 
 ## Features
 - Data Cleaning
